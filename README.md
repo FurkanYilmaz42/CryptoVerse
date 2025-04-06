@@ -9,11 +9,10 @@
 - **Bootstrap 5**
 
  ## 🎥 Preview
-
+![2025-04-0603-04-10-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/c305e6bb-0d27-47df-82cf-6c9d80115b3e)
 
 
 ## 🖥️ Page Structure & Features
-![2025-04-0603-04-10-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/c305e6bb-0d27-47df-82cf-6c9d80115b3e)
 
 ### 🔝 Navbar
 - A dynamic **navigation bar** appears at the top of the site.
